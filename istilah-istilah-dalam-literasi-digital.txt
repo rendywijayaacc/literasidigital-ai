@@ -1,1 +1,147 @@
+30 Istilah Literasi Digital dalam Pembuatan Buku dan Jurnal yang Wajib Diketahui
 
+Pendahuluan
+
+Literasi digital merupakan kemampuan untuk menggunakan teknologi digital dalam mencari, memahami, mengevaluasi, membuat, dan menyebarkan informasi secara bijak. Dalam dunia pendidikan dan penulisan ilmiah, literasi digital sangat penting karena proses pembuatan buku dan jurnal kini banyak dilakukan dengan bantuan teknologi.
+
+Mulai dari mencari referensi, menyusun naskah, mengelola kutipan, hingga menerbitkan karya secara online, semuanya membutuhkan pemahaman tentang istilah-istilah digital. Berikut adalah 30 istilah literasi digital yang berhubungan dengan pembuatan buku dan jurnal.
+
+A. Istilah dalam Pembuatan Buku Digital
+
+1. E-book (Electronic Book)
+
+E-book adalah buku dalam bentuk digital yang dapat dibaca melalui komputer, tablet, atau smartphone. Format yang umum digunakan antara lain PDF dan EPUB.
+
+2. EPUB (Electronic Publication)
+
+EPUB adalah format buku digital yang tata letak teksnya dapat menyesuaikan ukuran layar perangkat pembaca. Format ini banyak digunakan untuk buku elektronik.
+
+3. PDF (Portable Document Format)
+
+PDF merupakan format dokumen digital yang mempertahankan tata letak, gambar, dan format tulisan agar tampil relatif konsisten pada berbagai perangkat.
+
+4. ISBN (International Standard Book Number)
+
+ISBN adalah nomor identifikasi standar internasional untuk buku yang diterbitkan. ISBN membantu membedakan suatu terbitan buku dari terbitan lainnya sesuai ketentuan yang berlaku.
+
+5. Layout Buku
+
+Layout buku adalah proses mengatur tata letak teks, gambar, judul, nomor halaman, dan elemen visual agar buku terlihat rapi dan mudah dibaca.
+
+6. Tipografi
+
+Tipografi adalah seni dan teknik mengatur huruf, ukuran tulisan, jenis font, jarak antarhuruf, dan jarak antarbaris agar isi buku nyaman dibaca.
+
+7. Self-Publishing
+
+Self-publishing adalah proses menerbitkan buku secara mandiri oleh penulis tanpa harus bergantung sepenuhnya pada penerbit tradisional.
+
+8. Metadata Buku
+
+Metadata buku adalah informasi yang menjelaskan identitas buku, seperti judul, nama penulis, tahun terbit, bahasa, penerbit, dan ISBN jika tersedia.
+
+9. Digital Publishing
+
+Digital publishing adalah proses menerbitkan dan mendistribusikan konten melalui media digital, seperti situs web, platform buku elektronik, dan perpustakaan digital.
+
+10. Hak Cipta Digital
+
+Hak cipta digital adalah perlindungan hukum atas karya yang dibuat atau disebarkan dalam bentuk digital. Penulis perlu memahami haknya serta menghormati hak cipta karya orang lain.
+
+B. Istilah dalam Penulisan Jurnal Ilmiah
+
+11. Jurnal Ilmiah
+
+Jurnal ilmiah adalah publikasi berkala yang memuat artikel ilmiah, hasil penelitian, kajian teori, atau pembahasan akademik sesuai ruang lingkup jurnal.
+
+12. Artikel Ilmiah
+
+Artikel ilmiah adalah tulisan yang disusun secara sistematis untuk menyampaikan hasil penelitian, analisis, atau kajian berdasarkan metode dan sumber yang dapat dipertanggungjawabkan.
+
+13. DOI (Digital Object Identifier)
+
+DOI adalah pengenal digital permanen untuk suatu objek, seperti artikel jurnal. DOI memudahkan pembaca menemukan publikasi yang dirujuk.
+
+14. ISSN (International Standard Serial Number)
+
+ISSN adalah nomor standar internasional untuk mengidentifikasi publikasi berseri, termasuk jurnal ilmiah, baik dalam format cetak maupun elektronik.
+
+15. Peer Review
+
+Peer review adalah proses penilaian karya ilmiah oleh ahli atau peneliti lain yang memiliki kompetensi dalam bidang terkait sebelum artikel diterima untuk diterbitkan.
+
+16. Open Access
+
+Open access adalah model akses publikasi ilmiah yang memungkinkan pembaca mengakses artikel secara bebas melalui internet, sesuai ketentuan lisensi dan kebijakan penerbit.
+
+17. OJS (Open Journal Systems)
+
+OJS adalah perangkat lunak untuk mengelola proses penerbitan jurnal ilmiah, mulai dari pengiriman naskah hingga proses editorial dan publikasi.
+
+18. Sitasi
+
+Sitasi adalah penyebutan sumber yang digunakan dalam tulisan. Sitasi membantu pembaca menelusuri asal informasi dan memberikan pengakuan kepada pemilik gagasan.
+
+19. Daftar Pustaka
+
+Daftar pustaka adalah kumpulan sumber yang dirujuk dalam suatu karya tulis, disusun mengikuti gaya penulisan yang ditetapkan.
+
+20. Indeksasi Jurnal
+
+Indeksasi jurnal adalah proses pencatatan publikasi jurnal dalam suatu basis data atau layanan pengindeksan agar artikel lebih mudah ditemukan dan ditelusuri.
+
+C. Istilah Teknologi untuk Mendukung Penulisan
+
+21. Reference Manager
+
+Reference manager adalah aplikasi untuk mengelola referensi, menyimpan metadata sumber, serta membantu membuat sitasi dan daftar pustaka. Contohnya Zotero dan Mendeley.
+
+22. Google Scholar
+
+Google Scholar adalah layanan pencarian literatur akademik yang membantu pengguna menemukan artikel ilmiah, tesis, buku, dan berbagai sumber akademik lainnya.
+
+23. DOI Resolver
+
+DOI resolver adalah layanan yang mengarahkan pengguna dari DOI menuju halaman publikasi terkait. Salah satu bentuk alamatnya adalah https://doi.org/.
+
+24. Cloud Storage
+
+Cloud storage adalah layanan penyimpanan file melalui internet. Teknologi ini membantu penulis menyimpan dan mengakses naskah dari berbagai perangkat, misalnya melalui Google Drive atau OneDrive.
+
+25. Collaborative Writing
+
+Collaborative writing adalah proses menulis bersama beberapa orang menggunakan alat digital. Contohnya, beberapa penulis dapat menyunting dokumen yang sama melalui Google Docs.
+
+26. OCR (Optical Character Recognition)
+
+OCR adalah teknologi untuk mengenali teks dari gambar atau hasil pemindaian dokumen. Teknologi ini dapat membantu mengubah halaman buku hasil scan menjadi teks yang dapat dicari atau disunting, meskipun hasilnya tetap perlu diperiksa.
+
+27. Plagiarisme
+
+Plagiarisme adalah tindakan menggunakan kata-kata, gagasan, atau karya orang lain tanpa pengakuan yang semestinya. Penulis perlu melakukan parafrasa dengan benar dan mencantumkan sumber.
+
+28. Turnitin
+
+Turnitin adalah layanan yang digunakan oleh sejumlah institusi pendidikan untuk membantu memeriksa kemiripan teks. Persentase kemiripan bukan bukti otomatis terjadinya plagiarisme; hasilnya harus ditinjau berdasarkan konteks dan sumber.
+
+29. AI Writing Assistant
+
+AI writing assistant adalah alat berbasis kecerdasan buatan yang membantu kegiatan menulis, misalnya menyusun kerangka, memperbaiki tata bahasa, atau mengembangkan ide. Contohnya ChatGPT dan alat pemeriksa bahasa berbasis AI. Pengguna tetap perlu memeriksa fakta, memastikan orisinalitas, dan mengikuti kebijakan akademik.
+
+30. Creative Commons
+
+Creative Commons adalah organisasi yang menyediakan berbagai lisensi untuk membantu pencipta menentukan bagaimana karya mereka boleh digunakan oleh orang lain. Setiap lisensi memiliki ketentuan berbeda, misalnya kewajiban mencantumkan atribusi atau pembatasan penggunaan komersial.
+
+D. Mengapa Istilah-Istilah Ini Penting bagi Mahasiswa?
+
+Memahami istilah literasi digital dalam pembuatan buku dan jurnal dapat membantu mahasiswa mengembangkan kemampuan akademik dan profesional. Mahasiswa dapat mencari sumber yang lebih relevan, mengelola referensi secara efisien, menyusun tulisan dengan lebih terstruktur, serta memahami etika publikasi.
+
+Bagi mahasiswa Bisnis Digital, keterampilan ini juga bermanfaat untuk membuat e-book edukasi, menyusun laporan riset pasar, menulis artikel berbasis data, dan mengembangkan konten digital yang kredibel.
+
+Penggunaan teknologi harus tetap disertai sikap kritis. Tidak semua informasi di internet benar, tidak semua jurnal memiliki proses penelaahan yang baik, dan tidak semua hasil dari AI dapat langsung dipercaya.
+
+Kesimpulan
+
+Literasi digital bukan hanya kemampuan menggunakan perangkat teknologi, tetapi juga mencakup kemampuan mengelola informasi, membuat karya, mengevaluasi sumber, dan menghormati hak cipta. Dengan memahami istilah-istilah dalam pembuatan buku dan jurnal, mahasiswa dapat menghasilkan karya yang lebih berkualitas, terstruktur, dan bertanggung jawab.
+
+Oleh karena itu, penguasaan literasi digital menjadi salah satu bekal penting bagi mahasiswa di era teknologi, khususnya dalam dunia akademik dan bisnis digital.
